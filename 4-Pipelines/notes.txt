@@ -1,0 +1,3 @@
+Partition data sets into training data and testing data
+Classifiers can be thought of as functions: x is input, y is output
+A pipeline is the entire framework of converting raw data to machine learning output

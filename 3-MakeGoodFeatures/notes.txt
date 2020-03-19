@@ -1,0 +1,10 @@
+Don't include useless features
+  They may appear useful by accident
+Independent features are best
+Avoid redundant features, such as inches and cm as two seperate features
+Make features easy to understand
+
+Ideal features are:
+* Informative
+* Independent
+* Simple
